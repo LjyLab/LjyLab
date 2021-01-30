@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 你来啦！ 👋
 
 <p align="center">
   <img src="https://img.gejiba.com/images/74cd1a7ec378a09bc810f4bd46586948.gif" width="90px">
