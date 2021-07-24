@@ -19,7 +19,7 @@
 ## 🐱‍👤Learning
 
 ![Java](https://img.shields.io/badge/-Java-FF2200?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-FDD82D?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-FDD82D?style=flat&logo=python&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-1A71B5?style=flat&logo=jquery&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
