@@ -5,30 +5,30 @@
 
 💬Mail：admin@cuonc.com
 
-🙌快来找我！咕咕咕！ 🍔来找我叭! [Telegram](https://t.me/javahtml)
+🙌快来找我！咕咕咕！ 🍔来找我叭!  [Telegram](https://t.me/javahtml)
 
 ## 🐱‍🚀Dev Tools
-![Windows](https://img.shields.io/badge/-Windows_10-0078D6?style=flat&logo=windows&logoColor=white)
-![CentOS](https://img.shields.io/badge/-CentOS-A2518D?style=flat&logo=centos&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-DD4814?style=flat&logo=ubuntu&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/-Google_Chrome-DD5044?style=flat&logo=googlechrome&logoColor=white)
-![Microsoft_Edge](https://img.shields.io/badge/-Microsoft_Edge-35C9F7?style=flat&logo=MicrosoftEdge&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-E12669?style=flat&logo=IntelliJIDEA&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+[![Windows](https://img.shields.io/badge/-Windows_10-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows10)
+[![CentOS](https://img.shields.io/badge/-CentOS-A2518D?style=flat&logo=centos&logoColor=white)](https://www.centos.org/)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-DD4814?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Google Chrome](https://img.shields.io/badge/-Google_Chrome-DD5044?style=flat&logo=googlechrome&logoColor=white)](https://www.google.com/chrome/)
+[![Microsoft_Edge](https://img.shields.io/badge/-Microsoft_Edge-35C9F7?style=flat&logo=MicrosoftEdge&logoColor=white)](https://www.microsoft.com/en-us/edge)
+[![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-E12669?style=flat&logo=IntelliJIDEA&logoColor=white)](https://www.jetbrains.com/idea/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ## 🐱‍👤Learning
 
-![Java](https://img.shields.io/badge/-Java-FF2200?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-FDD82D?style=flat&logo=python&logoColor=blue)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-1A71B5?style=flat&logo=jquery&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Gitee](https://img.shields.io/badge/-Gitee-181717?style=flat&logo=gitee)  
+[![Java](https://img.shields.io/badge/-Java-FF2200?style=flat&logo=java)](https://www.oracle.com/java/technologies/javase-downloads.html)
+[![Python](https://img.shields.io/badge/-Python-FDD82D?style=flat&logo=python&logoColor=blue)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://zh.wikipedia.org/wiki/HTML)
+[![jQuery](https://img.shields.io/badge/-jQuery-1A71B5?style=flat&logo=jquery&logoColor=white)](https://jquery.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
+[![Gitee](https://img.shields.io/badge/-Gitee-181717?style=flat&logo=gitee)](https://gitee.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LjyLab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LjyLab&layout=compact)](#)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LjyLab&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LjyLab&show_icons=true&theme=flag-india)](#)
 
 <!-- <p align="center">
   <img src="https://img.gejiba.com/images/74cd1a7ec378a09bc810f4bd46586948.gif" width="90px">
