@@ -8,7 +8,7 @@
 🙌快来找我！咕咕咕！ 🍔来找我叭!  [Telegram](https://t.me/javahtml)
 
 ## 🐱‍🚀Dev Tools
-[![Windows](https://img.shields.io/badge/-Windows_10-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows10)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows10)
 [![CentOS](https://img.shields.io/badge/-CentOS-A2518D?style=flat&logo=centos&logoColor=white)](https://www.centos.org/)
 [![Ubuntu](https://img.shields.io/badge/-Ubuntu-DD4814?style=flat&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Google Chrome](https://img.shields.io/badge/-Google_Chrome-DD5044?style=flat&logo=googlechrome&logoColor=white)](https://www.google.com/chrome/)
