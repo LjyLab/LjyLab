@@ -15,7 +15,7 @@
 [![Microsoft_Edge](https://img.shields.io/badge/-Microsoft_Edge-35C9F7?style=flat&logo=MicrosoftEdge&logoColor=white)](https://www.microsoft.com/en-us/edge)
 [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-E12669?style=flat&logo=IntelliJIDEA&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
+<!--
 ## 🐱‍👤Learning
 
 [![Java](https://img.shields.io/badge/-Java-FF2200?style=flat&logo=java)](https://www.oracle.com/java/technologies/javase-downloads.html)
@@ -25,7 +25,7 @@
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
 [![Gitee](https://img.shields.io/badge/-Gitee-181717?style=flat&logo=gitee)](https://gitee.com/)
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LjyLab&layout=compact)](#)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LjyLab&show_icons=true&theme=flag-india)](#)
