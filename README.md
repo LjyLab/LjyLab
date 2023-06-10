@@ -25,11 +25,11 @@
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/)
 [![Gitee](https://img.shields.io/badge/-Gitee-181717?style=flat&logo=gitee)](https://gitee.com/)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LjyLab&layout=compact)](#)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LjyLab&show_icons=true&theme=flag-india)](#)
-
+ -->
 <!-- <p align="center">
   <img src="https://img.gejiba.com/images/74cd1a7ec378a09bc810f4bd46586948.gif" width="90px">
   <br><br>
