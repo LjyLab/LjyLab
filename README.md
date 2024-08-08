@@ -5,7 +5,7 @@
 
 💬Mail：admin@cuonc.com
 
-🙌快来找我！咕咕咕！ 🍔来找我叭!  [Telegram](https://t.me/javahtml)
+🙌快来找我！咕咕咕！ 🍔来找我叭!  ~~[Telegram](https://t.me/)~~ 被注销了~
 
 ## 🐱‍🚀Dev Tools
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/zh-cn/software-download/windows10)
